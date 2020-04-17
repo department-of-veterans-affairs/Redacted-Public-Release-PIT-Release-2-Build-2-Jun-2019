@@ -1,2 +1,3 @@
 # Redacted-Public-Release-PIT-Release-2-Build-2-Jun-2019
 Repository containing the CIF submission for Program Integrity Tool (PIT) Enhancements Release 2 Build 2 rec Jun 2019.
+The Non-VA Care Program Integrity Tools system, or PIT, is a comprehensive set of tools to detect Fraud, Waste, and Abuse (FWA) for the Purchased Care (PC) programs at the Department of Veterans Affairs (VA).  The system was built, tested, and deployed to the VA production environment in Fall 2012, and has been addressing the claim scoring, centralization of claim data, and related reporting capability needs of PC programs since. The existing solution architecture includes four primary components: 
